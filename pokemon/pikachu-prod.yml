@@ -1,4 +1,4 @@
-pikachu
-	name: puppylpg-prod
-	color: yellow-and-black
-	gender: male+female
+pikachu:
+    name: puppylpg-prod
+    color: yellow-and-black
+    gender: male+female
